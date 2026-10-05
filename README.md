@@ -7,19 +7,19 @@ No build step. Plain HTML + one CSS file + images in `assets/`.
 
 ## Live URLs
 
-Repo: <https://github.com/guhanmathi/boxpit> · deployed via GitHub Pages.
+Repo: <https://github.com/gmlabs-studio/boxpit> · deployed via GitHub Pages.
 
 | Page | URL |
 |---|---|
-| Landing page | <https://guhanmathi.github.io/boxpit/> |
-| Privacy policy | <https://guhanmathi.github.io/boxpit/privacy.html> |
+| Landing page | <https://gmlabs-studio.github.io/boxpit/> |
+| Privacy policy | <https://gmlabs-studio.github.io/boxpit/privacy.html> |
 
 ## What Play Console needs
 
 | Console field | URL to paste |
 |---|---|
-| Store listing → **Privacy policy** | `https://guhanmathi.github.io/boxpit/privacy.html` |
-| Store listing → **Website** (optional) | `https://guhanmathi.github.io/boxpit/` |
+| Store listing → **Privacy policy** | `https://gmlabs-studio.github.io/boxpit/privacy.html` |
+| Store listing → **Website** (optional) | `https://gmlabs-studio.github.io/boxpit/` |
 
 ## Deploy to GitHub Pages — pick one
 
